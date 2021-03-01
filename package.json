@@ -24,6 +24,6 @@
   "dependencies": {
     "aframe": "^1.0.4",
     "path": "^0.12.7",
-    "three": "^0.114.0"
+    "three": "^0.125.0"
   }
 }
